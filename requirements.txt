@@ -1,0 +1,15 @@
+numpy
+pandas
+polars
+streamlit
+matplotlib
+seaborn
+plotly
+dash
+scikit-learn
+pytorch-lightning
+huggingface
+transformers
+yfinance
+alpha-vantage
+pip install jupyterlab
