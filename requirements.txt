@@ -12,4 +12,8 @@ huggingface
 transformers
 yfinance
 alpha-vantage
-pip install jupyterlab
+jupyterlab
+nltk
+spacy
+scipy
+statsmodels
