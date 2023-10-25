@@ -8,6 +8,7 @@ plotly
 dash
 scikit-learn
 pytorch-lightning
+pytest
 huggingface
 transformers
 yfinance
