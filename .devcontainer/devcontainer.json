@@ -32,6 +32,9 @@
 	},
 
 	// Use 'postCreateCommand' to run commands after the container is created.
+	// upgrade pip to latest
+	"postCreateCommand": "pip3 install --upgrade pip"
+	// install the modules required for this project
 	"postCreateCommand": "pip3 install -r requirements.txt"
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
